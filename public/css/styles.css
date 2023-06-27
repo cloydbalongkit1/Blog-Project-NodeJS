@@ -55,6 +55,10 @@ html {
     color: #00624e;
 }
 
+.input-post {
+    white-space: pre-wrap;
+}
+
 /* Other Solution in Truncated the strings or limit the strings */
 /* .limit-chars {
     width: 100ch;
